@@ -1,4 +1,4 @@
-🚀 Aprendendo JavaScript, Lógica de Programação e Git/GitHub
+🚀 Aprimorar JavaScript, Lógica de Programação e Git/GitHub
 
 Bem-vindo ao meu repositório de estudos! Aqui estão os projetos e exercícios que estou desenvolvendo para aprender JavaScript, aprimorar minha lógica de programação e dominar o uso do Git e GitHub.
 
